@@ -1,0 +1,24 @@
+{
+  "name": "hydra",
+  "version": "0.1.0",
+  "description": "Among Us server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Among Us",
+    "server"
+  ],
+  "author": "Daemon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaemonBeast/Hydra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaemonBeast/Hydra/issues"
+  },
+  "homepage": "https://github.com/DaemonBeast/Hydra#readme"
+}
